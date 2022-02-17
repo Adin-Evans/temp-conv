@@ -1,0 +1,20 @@
+{
+  "files": {
+    "GUI.py": [
+      {
+        "id": "85855e7d-f664-402c-b636-b20373ca6ec0",
+        "line": 20,
+        "version": 1361,
+        "index": 1178
+      }
+    ],
+    "main.py": [
+      {
+        "id": "eb6b670c-7568-4e79-a4a0-98a6481b1f04",
+        "line": 23,
+        "version": 1062,
+        "index": 855
+      }
+    ]
+  }
+}
